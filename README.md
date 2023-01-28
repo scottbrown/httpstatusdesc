@@ -16,4 +16,4 @@ want to recreate the wheel each time.
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
